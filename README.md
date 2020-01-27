@@ -7,7 +7,6 @@ changes for 3rd commit
 
 one more line
 
-changes for new branch
-
+changes for new branchmore changes
 
 
